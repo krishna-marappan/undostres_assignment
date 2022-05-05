@@ -10,7 +10,7 @@ screenshotcount = 1
 
 def capture_screenshot(self):
     global screenshotcount
-    path =  Data.scr_path + str(screenshotcount) + ".png"
+    path = Data.scr_path + str(screenshotcount) + ".png"
     self.save_screenshot(path)
     screenshotcount += 1
 

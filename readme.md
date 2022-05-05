@@ -1,4 +1,4 @@
-# To run or review this script please follow below procedure
+# To run or review this script, please follow the below procedure.
 
 To start with automation
 
@@ -41,6 +41,6 @@ Folders:
 5. dependencies =  Used to describe the requirements for this script.
 
 ## To view report 
- To use allure report run the below cmd in terminal
-       " allure serve Output "
- To use behave-html report check in outputfolder
+1.To use allure report run the cmd in terminal
+    " allure serve Output "
+2.To use behave-html report check in outputfolder
